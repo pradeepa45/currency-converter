@@ -41,7 +41,7 @@
 		</form>
 		<p>
                     How to use the converter:<br>
-                    <ul> 
+                    <ul type = "none"> 
                         <li>
                             Enter a number in the field opposite to the value you want to convert, and click the convert button
                         </li>
