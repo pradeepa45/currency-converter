@@ -38,7 +38,18 @@
                 <td colspan="6" align="center"><input type="button" value="Convert!" /></td>
                 </tr>
                 </table>
-                </form>
+		</form>
+		<p>
+                    How to use the converter:<br>
+                    <ul> 
+                        <li>
+                            Enter a number in the field opposite to the value you want to convert, and click the convert button
+                        </li>
+                        <li>
+                            For a reuse, erase the field you want to use and repeat the above step.
+                        </li>
+                    </ul>
+                </p>`
         </div>
     </body>
 <script>
