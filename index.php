@@ -23,17 +23,17 @@
                 <table border="0">
                 <tr>
                 <td>Australian Dollar: </td><td><input type="text" name="asd" onChange="asdConverter()" /></td>
-                <td>Japanese Yen: </td><td><input type="text" name="yen" onChange="yenConverter()" /></td>
-                <td>Swiss Franc:</td><td><input type="text" name="franc" onChange="francConverter()" /></td>
+		 <td>Indian Rupee: </td><td><input type="text" name="rupee" onChange="rupeeConverter()" /></td>
+		 <td>Russian Ruble: </td><td><input type="text" name="ruble" onChange="rubleConverter()" /></td>
                 </tr>
                 <tr>
                 <td>British Pound: </td><td><input type="text" name="pound" onChange="poundConverter()" /></td>
-                <td>Indian Rupee: </td><td><input type="text" name="rupee" onChange="rupeeConverter()" /></td>
+                <td>Japanese Yen: </td><td><input type="text" name="yen" onChange="yenConverter()" /></td>
                 <td>South Korean Won: </td><td><input type="text" name="won" onChange="skwConverter()" /></td>
                 <tr>
                 <td>Chinese Yuan: </td><td><input type="text" name="yuan" onChange="yuanConverter()" /></td>
                 <td>Mexican Peso: </td><td><input type="text" name="peso" onChange="pesoConverter()" /></td>
-                <td>Russian Ruble: </td><td><input type="text" name="ruble" onChange="rubleConverter()" /></td>
+              	<td>Swiss Franc:</td><td><input type="text" name="franc" onChange="francConverter()" /></td>
                 </tr>
                 <tr>
                 <td>Euro: </td><td><input type="text" name="euro" onChange="euroConverter()" /></td>
