@@ -158,17 +158,17 @@ function skwConverter(){
 }
 
 function rubleConverter(){
-    document.converter.asd.value = document.converter.ruble.value * 57.16
-    document.converter.dollar.value = document.converter.ruble.value * 74.35
-    document.converter.euro.value = document.converter.ruble.value * 88.59
-    document.converter.franc.value = document.converter.ruble.value * 79.86
-    document.converter.peso.value = document.converter.ruble.value * 3.49
-    document.converter.pound.value = document.converter.ruble.value * 102.89
-    document.converter.ringgit.value = document.converter.ruble.value * 18.25
-    document.converter.rupee.value = document.converter.ruble.value * 1.02
-    document.converter.won.value = document.converter.ruble.value * 0.066
-    document.converter.yen.value = document.converter.ruble.value * 0.69
-    document.converter.yuan.value = document.converter.ruble.value * 11.42
+    document.converter.asd.value = document.converter.ruble.value * 0.017
+    document.converter.dollar.value = document.converter.ruble.value * 0.013
+    document.converter.euro.value = document.converter.ruble.value * 0.011
+    document.converter.franc.value = document.converter.ruble.value * 0.013
+    document.converter.peso.value = document.converter.ruble.value * 0.29
+    document.converter.pound.value = document.converter.ruble.value * 0.0097
+    document.converter.ringgit.value = document.converter.ruble.value * 0.055
+    document.converter.rupee.value = document.converter.ruble.value * 0.98
+    document.converter.won.value = document.converter.ruble.value * 15.17
+    document.converter.yen.value = document.converter.ruble.value * 1.46
+    document.converter.yuan.value = document.converter.ruble.value * 0.087
 }
 
 function yuanConverter(){
@@ -200,32 +200,32 @@ function francConverter(){
 }
 
 function ringgitConverter(){
-    document.converter.asd.value = document.converter.ringgit.value * 3.13
-    document.converter.dollar.value = document.converter.ringgit.value * 4.07
-    document.converter.euro.value = document.converter.ringgit.value * 4.85
-    document.converter.franc.value = document.converter.ringgit.value * 4.38
-    document.converter.peso.value = document.converter.ringgit.value * 0.19
-    document.converter.pound.value = document.converter.ringgit.value * 5.64
-    document.converter.ruble.value = document.converter.ringgit.value * 0.055
-    document.converter.rupee.value = document.converter.ringgit.value * 0.056
-    document.converter.won.value = document.converter.ringgit.value * 0.0036
-    document.converter.yen.value = document.converter.ringgit.value * 0.038
-    document.converter.yuan.value = document.converter.ringgit.value * 0.63
+    document.converter.asd.value = document.converter.ringgit.value * 0.32
+    document.converter.dollar.value = document.converter.ringgit.value * 0.25
+    document.converter.euro.value = document.converter.ringgit.value * 0.21
+    document.converter.franc.value = document.converter.ringgit.value * 0.23
+    document.converter.peso.value = document.converter.ringgit.value * 5.23
+    document.converter.pound.value = document.converter.ringgit.value * 0.18
+    document.converter.ruble.value = document.converter.ringgit.value * 18.25
+    document.converter.rupee.value = document.converter.ringgit.value * 17.96
+    document.converter.won.value = document.converter.ringgit.value * 276.93
+    document.converter.yen.value = document.converter.ringgit.value * 26.56
+    document.converter.yuan.value = document.converter.ringgit.value * 1.59
 }
 
 
 function pesoConverter(){
-    document.converter.asd.value = document.converter.peso.value * 16.38
-    document.converter.dollar.value = document.converter.peso.value * 21.32
-    document.converter.euro.value = document.converter.peso.value * 25.40
-    document.converter.franc.value = document.converter.peso.value * 22.90
-    document.converter.pound.value = document.converter.peso.value * 29.50
-    document.converter.ringgit.value = document.converter.peso.value * 5.23
-    document.converter.ruble.value = document.converter.peso.value * 0.29
-    document.converter.rupee.value = document.converter.peso.value * 0.29
-    document.converter.won.value = document.converter.peso.value * 0.019
-    document.converter.yen.value = document.converter.peso.value * 0.20
-    document.converter.yuan.value = document.converter.peso.value * 3.28
+    document.converter.asd.value = document.converter.peso.value * 0.061
+    document.converter.dollar.value = document.converter.peso.value * 0.047
+    document.converter.euro.value = document.converter.peso.value * 0.039
+    document.converter.franc.value = document.converter.peso.value * 0.044
+    document.converter.pound.value = document.converter.peso.value * 0.034
+    document.converter.ringgit.value = document.converter.peso.value * 0.19
+    document.converter.ruble.value = document.converter.peso.value * 3.49
+    document.converter.rupee.value = document.converter.peso.value * 3.43
+    document.converter.won.value = document.converter.peso.value * 52.93
+    document.converter.yen.value = document.converter.peso.value * 5.09
+    document.converter.yuan.value = document.converter.peso.value * 0.30
 }
 
     </script>
