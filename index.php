@@ -94,7 +94,7 @@ function poundConverter(){
     document.converter.franc.value = document.converter.pound.value * 1.29
     document.converter.peso.value = document.converter.pound.value * 29.30
     document.converter.ringgit.value = document.converter.pound.value * 5.64
-    document.converter.ruble.value = document.converter.pound.value * 0.0097
+    document.converter.ruble.value = document.converter.pound.value * 102.89
     document.converter.rupee.value = document.converter.pound.value * 101.28
     document.converter.won.value = document.converter.pound.value * 1561.46
     document.converter.yen.value = document.converter.pound.value * 150.03
