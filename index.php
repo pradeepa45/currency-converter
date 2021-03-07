@@ -45,7 +45,7 @@
                 </tr>
                 </table>
 		</form>
-		<p>
+		<!-- <p>
                     How to use the converter:<br>
                     <ul type = "none"> 
                         <li>
@@ -55,7 +55,7 @@
                             For a reuse, erase the field you want to use and repeat the above step.
                         </li>
                     </ul>
-                </p>`
+                </p>`-->
         </div>
     </body>
 <script>
