@@ -60,17 +60,17 @@
     </body>
 <script>
         function euroConverter(){
-    document.converter.asd.value = document.converter.euro.value * 0.65
-    document.converter.dollar.value = document.converter.euro.value * 0.84
-    document.converter.franc.value = document.converter.euro.value * 0.90
-    document.converter.peso.value = document.converter.euro.value * 0.039
-    document.converter.pound.value = document.converter.euro.value * 1.16
-    document.converter.ringgit.value = document.converter.euro.value * 0.21
-    document.converter.ruble.value = document.converter.euro.value * 0.011
-    document.converter.rupee.value = document.converter.euro.value * 0.011
-    document.converter.won.value = document.converter.euro.value * 0.00074
-    document.converter.yen.value = document.converter.euro.value * 0.0077
-    document.converter.yuan.value = document.converter.euro.value * 0.13
+    document.converter.asd.value = document.converter.euro.value * 1.55
+    document.converter.dollar.value = document.converter.euro.value * 1.19
+    document.converter.franc.value = document.converter.euro.value * 1.11
+    document.converter.peso.value = document.converter.euro.value * 24.50
+    document.converter.pound.value = document.converter.euro.value * 0.86
+    document.converter.ringgit.value = document.converter.euro.value * 4.85
+    document.converter.ruble.value = document.converter.euro.value * 88.59
+    document.converter.rupee.value = document.converter.euro.value * 87.20
+    document.converter.won.value = document.converter.euro.value * 1344.40
+    document.converter.yen.value = document.converter.euro.value * 129.18
+    document.converter.yuan.value = document.converter.euro.value * 7.74
     }
 
 function dollarConverter(){
