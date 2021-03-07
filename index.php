@@ -13,7 +13,13 @@
             <h1 class="header">Currency Convertor</h1>
         </div>
         <div class="frosted">
-            <form name="converter">
+	<div class = "right tooltip">
+                How to use?
+                <span class="tooltiptext">
+                    Enter a number in the field opposite to the value you want to convert, and click the convert button. For a reuse, erase the field you want to use and repeat the above step.
+                </span>
+            </div>   
+	 <form name="converter">
                 <table border="0">
                 <tr>
                 <td>Australian Dollar: </td><td><input type="text" name="asd" onChange="asdConverter()" /></td>
